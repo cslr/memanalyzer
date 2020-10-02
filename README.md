@@ -20,5 +20,6 @@ rapidly and faster than our maximum speed sampling frequency
 
 After reducting dimension of variables to something like 10^4 we can
 then maybe compute cross correlation matrix Cyx when data representation
-changes and compute linear transformation y = Ax to keep representation of active variables
-(continuous thought process in human brain).
+changes (memory allocations/memory maps, shift to new set of active variables) 
+and compute linear transformation y = Ax to keep representation of active variables
+(we should try try to follow computation like continuous thought process in human brain).
