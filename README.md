@@ -1,5 +1,5 @@
 # memanalyzer
-Code for collection and analysis of computer program execution data (Linux)
+Code for sampling and analysis of computer program execution data (Linux)
 
 For now it reads target process (PID) memory and tracks changes in memory use.
 
